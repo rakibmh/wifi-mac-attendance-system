@@ -1,0 +1,16 @@
+Repo _________________
+git init
+git add .
+git commit -m "msg"
+git branch -M main
+git remote add origin https://github.com/rakibmh/wifi-mac-attendance-system.git
+git push -u origin main
+______________________________
+
+clone__________
+git clone https://github.com/rakibmh/wifi-mac-attendance-system.git
+
+Update___________________
+git add .
+git commit -m "msg"
+git push 
